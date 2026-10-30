@@ -1,0 +1,1 @@
+Es un módulo de gestión de usuarios que funciona mediante una terminal. Cuenta con un menú de opciones que permite registrar , buscar, consultar, actualizar y eliminar usuarios. Para registrar a un usuario el sistema solicita su nombre, su correo y su edad. El sistema permite almacenar la información en una lista o en un archivo json
